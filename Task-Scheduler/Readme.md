@@ -36,7 +36,7 @@ Once you have the project running, you can perform the following actions:
 
 ## Demo
 
-A live demo of the Kanban board is available at: [TOOB]()
+A live demo of the Kanban board is available at: [TOB](https://samueljohnsegun148.github.io/task-scheduler/)
 
 
 ## Contributing
